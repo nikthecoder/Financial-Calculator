@@ -4,7 +4,7 @@ This is a financial calculator created as part of the College Algebra with Pytho
 
 ## Objective
 
-Create a multi-function calculator using Python that take input and do the following:
+Create a multi-function calculator using Python that takes input and does the following:
 
     Calculate annuity with monthly or continuous growth
     Calculate monthly mortgage payment
